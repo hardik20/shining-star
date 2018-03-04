@@ -1,0 +1,1 @@
+class pofile:: db{}
